@@ -1,5 +1,5 @@
 
-title: 한휘의 기술블로그 #Your awesome title
+title: 한휘의 코딩블로그 #Your awesome title
 email: whist1e6819@naver.com
 description: > # this means to ignore newlines until "baseurl"
   Write an awesome description for your new site here. You can edit this
@@ -18,8 +18,8 @@ google_analytics: #UA—XXXXXXXX-X
 disqus_shortname: #disqus shortname
 
 user:
-  name: 한휘
-  pic: /assets/img/cat.jpg
+  name: HWI
+  pic: /c/Users/82105/Pictures/20150325161735 (2).png
   picAlt: "catbook"
   job: 학생
   aboutme: true # comment this out if you don't need the 'about' page.
