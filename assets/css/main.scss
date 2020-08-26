@@ -11,9 +11,9 @@
    ========================================================================== */
 
 @mixin lightMode {
-    --bg_color: #eee;
-    --header_bg: #fafafa;
-    --content_bg: #fff;
+    --bg_color: rgb(233, 184, 121);
+    --header_bg: #ffeac3;
+    --content_bg: rgb(248, 255, 189);
     --archive_font: #000;
     --archive_title: #46a891;
     --archive_title_hover: #87CDBD;
