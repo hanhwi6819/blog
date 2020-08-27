@@ -12,15 +12,15 @@
 
 @mixin lightMode {
     --bg_color: rgb(182, 119, 77);
-    --header_bg: #f1c9ad;
-    --content_bg: rgb(252, 240, 235);
+    --header_bg: #F0DAC3;
+    --content_bg: #FCF9F4;
     --archive_font: #000;
-    --archive_title: #83482d;
-    --archive_title_hover: #a1684d;
-    --name_font: #5a7741;
+    --archive_title: #68523D;
+    --archive_title_hover: #C8A879;
+    --name_font: #AAA680;
     --job_font: #003845;
-    --nav_font: #8a5a13;
-    --nav_font_hover: #ce7b00;
+    --nav_font: #F3CC89;
+    --nav_font_hover: #9AA27B;
     --shadow_color: rgba(160, 160, 160, 0.05);
     --post_title: #003845;
     --post_date: #003845;
