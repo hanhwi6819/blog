@@ -11,7 +11,7 @@
    ========================================================================== */
 
 @mixin lightMode {
-    --bg_color: rgb(182, 119, 77);
+    --bg_color: #9AA27B;
     --header_bg: #F0DAC3;
     --content_bg: #FCF9F4;
     --archive_font: #000;
@@ -19,7 +19,7 @@
     --archive_title_hover: #C8A879;
     --name_font: #AAA680;
     --job_font: #003845;
-    --nav_font: #F3CC89;
+    --nav_font: #ffa200;
     --nav_font_hover: #9AA27B;
     --shadow_color: rgba(160, 160, 160, 0.05);
     --post_title: #003845;
