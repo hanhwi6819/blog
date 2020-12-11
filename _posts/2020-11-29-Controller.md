@@ -5,16 +5,23 @@ comments: true
 ---
 
 #### Spring Boot - Controller
+
 **controller란?**
+
 - 사용자의 요청이 진입하는 지점(entry point)
+
 - 요청에 따라 어떤 처리를 할지 결정
+
 단, controller는 단지 결정만 해주고 실질적인 처리는 서비스(Layered Architecture)에서 담당
+
 - 사용자에게 View(또는 서버에서 처리된 데이터를 포함하는 View)를 응답으로 보냄
 
 ----
 
 **controller를 사용하는 이유**
+
 요청에 따라 로직처리를 위한 분기를 담당하고 사용자에게 서버에서 처리된 데이터를 포함한 View를 리턴한다.
+
 _역할분담이 핵심이다._
 
 ----
