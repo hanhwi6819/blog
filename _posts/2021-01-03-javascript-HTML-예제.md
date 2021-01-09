@@ -34,7 +34,7 @@ alert : 알림 팝업(경고)
 </html>
 ```
 
-![ex_1](./img/1.JPG)
+![ex_screenshot](./img/1.JPG)
 
 
 2 /
