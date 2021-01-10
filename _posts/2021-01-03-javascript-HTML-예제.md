@@ -1,6 +1,6 @@
 ---
 title: javascript HTML 예제
-categories: [HTML]
+categories: [JAVAscript]
 comments: true
 ---
 
