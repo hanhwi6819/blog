@@ -11,16 +11,16 @@
    ========================================================================== */
 
 @mixin lightMode {
-    --bg_color: #A2C695;
-    --header_bg: #BC4B4B;
-    --content_bg: #FDFCE1;
+    --bg_color: #a8a8a8;
+    --header_bg: #dcd0d0;
+    --content_bg: #ffffff;
     --archive_font: #000;
-    --archive_title: #836951;
-    --archive_title_hover: #C8A879;
-    --name_font: #A7BAA0;
+    --archive_title: #85776a;
+    --archive_title_hover: #b7ab99;
+    --name_font: #ffa200;
     --job_font: #003845;
-    --nav_font: #ffa200;
-    --nav_font_hover: #ffd900;
+    --nav_font: #9f7fce;
+    --nav_font_hover: #bca9d9;
     --shadow_color: rgba(160, 160, 160, 0.05);
     --post_title: #003845;
     --post_date: #003845;
