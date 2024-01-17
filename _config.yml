@@ -1,5 +1,5 @@
 
-title: 휘황! 찬란IT #Your awesome title
+title: 휘황!찬란IT #Your awesome title
 email: whist1e6819@naver.com
 description: > # this means to ignore newlines until "baseurl"
   Write an awesome description for your new site here. You can edit this
@@ -21,7 +21,7 @@ user:
   name: HWI
   pic: https://attach.s.op.gg/forum/20180523072832_896451.jpg
   picAlt: "catbook"
-  job: 학생
+  job: 대학생
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
